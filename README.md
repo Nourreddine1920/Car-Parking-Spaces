@@ -16,3 +16,7 @@ pip install pickle
 
 #### 👉 SELECT SPACES IN CAR PARKING IN ```ParkingSpaces.py ``` loaded in ``` CarParkPos ``` USING PICKLE MODULE 
 ![Screenshot](carParking.png)
+
+#### 👉 TRAIN THE MODEL IN CAR PARKING SPACES ``` main.py ```
+![Screenshot](main.png)
+
